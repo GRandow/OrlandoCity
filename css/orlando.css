@@ -407,8 +407,8 @@ footer .list-socials i {
 	margin: 7px auto;
 }
 video {
-	width: 60%;
-	height: 350px;
+    max-width: 60%;
+    max-height: 350px;
 }
 #btn-bars, #btn-search, #btn-news-prev, #btn-news-next {
 	display: none;
