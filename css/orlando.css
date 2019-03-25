@@ -159,6 +159,7 @@ header #logotipo {
 	background: url("../img/banner.jpg") no-repeat;
 	top: -110px;
 	background-position: 0px -100px;
+	background-size: cover;
 }
 #banner h1 {
 	transition: 1s;
